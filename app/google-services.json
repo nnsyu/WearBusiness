@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "939486754813",
+    "firebase_url": "https://wearb-b752b-default-rtdb.firebaseio.com",
+    "project_id": "wearb-b752b",
+    "storage_bucket": "wearb-b752b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939486754813:android:e320a556223150317d4b94",
+        "android_client_info": {
+          "package_name": "com.ewoo.wearbusiness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939486754813-meigq3b9k3bjpjpqgm8k6tppodmssi6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyOjXq6Ave4yYvb-kWsiB7VgVbXjRdX2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939486754813-meigq3b9k3bjpjpqgm8k6tppodmssi6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
